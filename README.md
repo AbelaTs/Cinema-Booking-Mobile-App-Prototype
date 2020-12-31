@@ -13,9 +13,9 @@
 * Implemented MVVM Design Pattern 
 * Bloc Pattern to implement the state management
 * Object oriented approach to handle local data across screens
-<img src="app_screenshots/home.png" width="50" height = "50">
-![App home page view](app_screenshots/movie_detail.png)
-![App home page view](app_screenshots/movie_detail2.png)
-![App home page view](app_screenshots/cinema_booker.png)
-![App home page view](app_screenshots/save_ticket.png)
+<img src="app_screenshots/home.png" width="300" height = "600">
+<img src="app_screenshots/movie_detail.png" width="300" height = "600">
+<img src="app_screenshots/movie_detail2.png" width="300" height = "600">
+<img src="app_screenshots/cinema_booker.png" width="300" height = "600">
+<img src="app_screenshots/save_ticket.png" width="300" height = "600">
 
