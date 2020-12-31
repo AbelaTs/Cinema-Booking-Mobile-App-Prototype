@@ -1,4 +1,4 @@
-# imdb_app
+# Cnema Booking Mobile App Prototype
 
 A new Flutter application.
 
