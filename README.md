@@ -1,16 +1,7 @@
 # Cinema Booking Mobile App Prototype
 
-A new Flutter application.
+A sample prototyep for cinema booking app. This app fetches random movies from the IMDB database. 
+Users can checkout different movies and get full details about the movie they picked. 
+Users can book their seat in the cinema along with the date and time.
+Users can also rate any movie that they want.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
