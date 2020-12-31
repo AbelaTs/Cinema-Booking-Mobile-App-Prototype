@@ -13,4 +13,5 @@
 * Implemented MVVM Design Pattern 
 * Bloc Pattern to implement the state management
 * Object oriented approach to handle local data across screens
+![alt text](https://github.com/AbelaTs/Cinema-Booking-Mobile-App-Prototype/app screenshots/home.png?raw=true)
 
