@@ -13,5 +13,9 @@
 * Implemented MVVM Design Pattern 
 * Bloc Pattern to implement the state management
 * Object oriented approach to handle local data across screens
-![App home page view](app screenshots/home.png)
+![App home page view](app_screenshots/home.png) 
+![App home page view](app_screenshots/movie_detail.png)
+![App home page view](app_screenshots/movie_detail2.png)
+![App home page view](app_screenshots/cinema_booker.png)
+![App home page view](app_screenshots/save_ticket.png)
 
