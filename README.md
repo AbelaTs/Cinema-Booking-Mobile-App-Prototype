@@ -1,4 +1,4 @@
-# Cnema Booking Mobile App Prototype
+# Cinema Booking Mobile App Prototype
 
 A new Flutter application.
 
